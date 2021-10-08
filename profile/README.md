@@ -5,3 +5,5 @@ KuberLogic is an open-source platform that deploys and manages software on top o
 **Website**: https://kuberlogic.com
 
 **Documentation**: https://docs.kuberlogic.com
+
+Twitter: [@kuberlogichq](https://twitter.com/kuberlogichq)

@@ -6,5 +6,3 @@ KuberLogic is an open-source solution that helps to deliver any single-tenant ap
 
 
 **Documentation**: https://docs.kuberlogic.com
-
-Twitter: [@kuberlogichq](https://twitter.com/kuberlogichq)
